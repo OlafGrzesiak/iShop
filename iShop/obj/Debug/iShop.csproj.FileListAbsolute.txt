@@ -1,0 +1,16 @@
+C:\Users\olafg\source\repos\iShop\iShop\bin\Debug\iShop.exe.config
+C:\Users\olafg\source\repos\iShop\iShop\bin\Debug\iShop.exe
+C:\Users\olafg\source\repos\iShop\iShop\bin\Debug\iShop.pdb
+C:\Users\olafg\source\repos\iShop\iShop\obj\Debug\iShop.csproj.AssemblyReference.cache
+C:\Users\olafg\source\repos\iShop\iShop\obj\Debug\iShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\olafg\source\repos\iShop\iShop\obj\Debug\MainWindow.g.cs
+C:\Users\olafg\source\repos\iShop\iShop\obj\Debug\App.g.cs
+C:\Users\olafg\source\repos\iShop\iShop\obj\Debug\iShop_MarkupCompile.cache
+C:\Users\olafg\source\repos\iShop\iShop\obj\Debug\iShop_MarkupCompile.lref
+C:\Users\olafg\source\repos\iShop\iShop\obj\Debug\MainWindow.baml
+C:\Users\olafg\source\repos\iShop\iShop\obj\Debug\iShop.g.resources
+C:\Users\olafg\source\repos\iShop\iShop\obj\Debug\iShop.Properties.Resources.resources
+C:\Users\olafg\source\repos\iShop\iShop\obj\Debug\iShop.csproj.GenerateResource.cache
+C:\Users\olafg\source\repos\iShop\iShop\obj\Debug\iShop.csproj.CoreCompileInputs.cache
+C:\Users\olafg\source\repos\iShop\iShop\obj\Debug\iShop.exe
+C:\Users\olafg\source\repos\iShop\iShop\obj\Debug\iShop.pdb
